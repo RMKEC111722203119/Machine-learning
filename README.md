@@ -5,7 +5,7 @@ Machine learning classes and projects related to it are displayed as a code
 using [Google colab](https://colab.google/)
 
  👇click to get the detailed code of every ML classes
-# Supervised learning
+### Supervised learning
 
 [Linear Regression](https://github.com/RMKEC111722203119/Machine-learning/blob/8b781b49e50c55ba81ecaf1a4b40d97f94ff4941/Linear_Regression_model.ipynb)
 
