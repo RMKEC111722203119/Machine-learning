@@ -2,6 +2,7 @@
 Author: [Vigneshwaran](https://www.linkedin.com/in/vigneshwaran-n-69b450255)
 
 Machine learning classes and projects related to it are displayed as a code
+using [Google colab](https://colab.google/)
 
  👇click to get the detailed code of every ML classes
 # Supervised learning
