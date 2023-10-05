@@ -13,4 +13,4 @@ using [Google colab](https://colab.google/)
 
 [SVM_classifier](https://github.com/RMKEC111722203119/Machine-learning/blob/01a15ed30799eb827e016c2f29680ddee7b898ad/SVM_classifier.ipynb)
 
-[Lasso Regression](https://github.com/RMKEC111722203119/Machine-learning/blob/fd226dca993fe0ea897f99f5396f45c3cd91bc3d/Lasso_regression.ipynb))
+[Lasso Regression](https://github.com/RMKEC111722203119/Machine-learning/blob/fd226dca993fe0ea897f99f5396f45c3cd91bc3d/Lasso_regression.ipynb)
